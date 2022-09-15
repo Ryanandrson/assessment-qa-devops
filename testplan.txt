@@ -1,0 +1,28 @@
+Test Plan for Robot dueling web app
+
+overview:
+Test the main functionality of the app
+
+Links:
+localhost:3000
+
+Test Criteria:
+-Ensure a robot battle can happy
+-page shows dueling instructions on load
+-shows wins and lossess after one battle with acurate count
+-Ability to see all the bots by clicking on the "see all bots button"
+-Can create a duel (team of robots battling for you)
+-  5 robot cards should appear on the page
+
+
+
+Entry Criteria:
+-Project is downloaded on local machine
+-Nodemon running backend on local port 3000
+-Has access to chrome on local machine
+
+Exit Criteria:
+
+All test cases run and pass
+
+other details: None

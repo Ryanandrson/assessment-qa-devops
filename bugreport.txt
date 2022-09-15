@@ -1,0 +1,29 @@
+Bug Report for Test Case
+
+Sep 12, 2022
+
+Description
+
+The "See all bots" button does not work
+
+Steps to reproduce:
+
+1. Setup website by navigating to root folder of project and running "Nodemon"
+2. Go to localhost:3000
+3. click button "see all bots"
+
+Expected result:
+
+-Page should be populatedwith all robots in our system
+- no errors should be logged
+
+Actual results:
+-Clicking button does nothing(no robots displayed)
+-clicking button produces errors in browser console
+-clicking button produces errors in node process
+
+Environment:
+-MacOS Monterrey Version 12..4
+-Chrome version 105.0.5195.102
+
+Attachments: NONE
